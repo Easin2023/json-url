@@ -1,0 +1,45 @@
+[
+     {
+        "id": "1",
+         "product_name": "Apple Watch Series 9",
+         "img": "https://i.ibb.co/sJJPKTt/Apple-Watch-Series-9-price-in-Bangladesh-removebg-preview.png",
+         "price": "$199.99",
+         "short_description": "Introducing the EcoSmart Smartwatch - the ultimate wearable tech for a sustainable lifestyle. This sleek and feature-packed smartwatch is designed to help you stay connected while reducing your carbon footprint."
+     },
+     {
+        "id": "2",
+         "product_name": "Apple 15 pro Max",
+         "img": "https://i.ibb.co/k9x2tPq/new-File-7-removebg-preview.png",
+         "price": "$249.99",
+         "short_description": "The FusionChef Pro Blender is the ultimate kitchen companion for culinary enthusiasts. It's more than just a blender; it's a culinary powerhouse that unlocks a world of possibilities."
+     },
+     {
+        "id": "3",
+         "product_name": "HDR1000 QLED Curved Gaming Monitor",
+         "img": "https://i.ibb.co/c2j4DSs/G9-022-Swivel2-White-removebg-preview.png",
+         "price": "$29.99 (per bulb)",
+         "short_description": "Illuminate your life with GlowBud Smart Light Bulbs. These energy-efficient and customizable bulbs will transform your home lighting experience."
+     },
+     {
+        "id": "4",
+         "product_name": "Galaxy Z Flip5",
+         "img": "https://i.ibb.co/9h52x5W/Samsung-Galaxy-Z-Fold4-featured-image-packshot-review-removebg-preview.png",
+         "price": "Free (with in-app purchases)",
+         "short_description": "Discover inner peace and mindfulness with ZenMind Meditation App. Unlock a world of tranquility and well-being through guided meditation and mindfulness exercises."
+     },
+     {
+        "id": "5",
+         "product_name": "Galaxy Book2 Pro 360 5G, 13.3, Snapdragon®",
+         "img": "https://i.ibb.co/17BCLdG/1-Gallery-1600x1200-removebg-preview.png",
+         "price": "$59.99 (per kit)",
+         "short_description": "Experience the joy of cooking with NourishMe Organic Meal Kits. Each kit contains farm-fresh ingredients and chef-designed recipes for delicious, healthy meals."
+     },
+     {
+        "id": "6",
+         "product_name": "Samsung S23 Ultra",
+         "img": "https://i.ibb.co/zhF6R9m/Galaxy-S23-Ultra-Green-3380-removebg-preview.png",
+         "price": "$59.99 (per kit)",
+         "short_description": "Experience the joy of cooking with NourishMe Organic Meal Kits. Each kit contains farm-fresh ingredients and chef-designed recipes for delicious, healthy meals."
+     }
+ ]
+ 
